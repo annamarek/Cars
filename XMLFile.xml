@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+	<name>Каталог авто</name>
+	<about>Навчальний ресурс вивчення XML</about>
+	<cars>
+		<car>
+			<id>1</id>
+			<type>Седан</type>
+			<year>2020</year>
+			<speed>80</speed>
+			<price>30000</price>
+		</car>
+		<car>
+			<id>2</id>
+			<type>Мерс</type>
+			<year>2018</year>
+			<speed>90</speed>
+			<price>45000</price>
+		</car>
+		<car>
+			<id>3</id>
+			<type>Ауди</type>
+			<year>2022</year>
+			<speed>140</speed>
+			<price>55000</price>
+		</car>
+	</cars>
+</catalog>
